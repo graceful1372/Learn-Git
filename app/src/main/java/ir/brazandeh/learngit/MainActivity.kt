@@ -45,8 +45,3 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
-
-@Composable
-fun TestPull(modifier: Modifier = Modifier) {
-    
-}
